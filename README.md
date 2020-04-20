@@ -1,2 +1,2 @@
-# rabbitmq
+# RabbitMQ
 Proyecto Spring Boot - RabbitMQ
