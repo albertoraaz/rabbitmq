@@ -1,2 +1,2 @@
 # RabbitMQ
-Proyecto Spring Boot - RabbitMQ
+Spring Boot - RabbitMQ.
